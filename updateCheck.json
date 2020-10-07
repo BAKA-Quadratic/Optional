@@ -1,10 +1,12 @@
 {
-  "latestVersion": "HiJi.ゼロ",
-  "latestVersionCode": 1,
+  "latestVersion": "DuA.ゼロ",
+  "latestVersionCode": 2,
   "url": "https://play.google.com/store/apps/details?id=monocode.id.shiroimono",
   "releaseNotes": [
-    "Initial release",
-    "3200+ icons",
+    "• Add 80 Icons"
+    "• Add Wallpaper"
+    "• Fix activity"
+    "• Fix Clear button color(on toolbar)",
     "Thank you ☺️"
   ]
 }
