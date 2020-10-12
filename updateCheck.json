@@ -1,12 +1,14 @@
 {
-  "latestVersion": "DuA.ゼロ",
-  "latestVersionCode": 2,
+  "latestVersion": "TiLu.ゼロ",
+  "latestVersionCode": 3,
   "url": "https://play.google.com/store/apps/details?id=monocode.id.shiroimono",
   "releaseNotes": [
-    "• Add 80 Icons",
-    "• Add Wallpaper",
+    "• Add 78 Icons (User Request)",
+    "• Update CandyBar dashboard to v3.8.1",
     "• Fix activity",
-    "• Fix Clear button color(on toolbar)",
+    "• Minor fixes",
+    "• Support for Android Jelly Bean",
+    "• More icons(Request) coming soon(in process)",
     "Thank you ☺️"
   ]
 }
