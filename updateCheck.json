@@ -1,13 +1,9 @@
 {
-  "latestVersion": "TiLu.ゼロ",
-  "latestVersionCode": 3,
+  "latestVersion": "LiMA.ゼロ",
+  "latestVersionCode": 5,
   "url": "https://play.google.com/store/apps/details?id=monocode.id.shiroimono",
   "releaseNotes": [
-    "• Add 200 Icons (User Request)",
-    "• More icons(Request) coming soon(in process)",
-    "• Fix activity",
-    "• Change min SDK to 21",
-    "• Remove Support for Android Jelly Bean",
-    "Thank you ☺️"
+    "• Add 294 Icons (User Request)",
+    "• More icons(Request) coming soon"
   ]
 }
